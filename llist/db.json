@@ -1,0 +1,710 @@
+{
+  "키나": {
+    "group": "FIFTY FIFTY",
+    "position": "메인래퍼",
+    "nationality": "대한민국",
+    "birthyear": 2002
+  },
+  "문샤넬": {
+    "group": "FIFTY FIFTY",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 2003
+  },
+  "예원": {
+    "group": "FIFTY FIFTY",
+    "position": "보컬",
+    "nationality": "대한민국",
+    "birthyear": 2005
+  },
+  "하나": {
+    "group": "FIFTY FIFTY",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 2006
+  },
+  "아테나": {
+    "group": "FIFTY FIFTY",
+    "position": "보컬",
+    "nationality": "스웨덴",
+    "birthyear": 2007
+  },
+  "치키타": {
+    "group": "BABYMONSTER",
+    "position": "none",
+    "nationality": "태국",
+    "birthyear": 2009
+  },
+  "로라": {
+    "group": "BABYMONSTER",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2008
+  },
+  "라미": {
+    "group": "BABYMONSTER",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2007
+  },
+  "아현": {
+    "group": "BABYMONSTER",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2006
+  },
+  "아사": {
+    "group": "BABYMONSTER",
+    "position": "메인래퍼",
+    "nationality": "일본",
+    "birthyear": 2004
+  },
+  "파리타": {
+    "group": "BABYMONSTER",
+    "position": "none",
+    "nationality": "태국",
+    "birthyear": 2005
+  },
+  "루카": {
+    "group": "BABYMONSTER",
+    "position": "none",
+    "nationality": "일본",
+    "birthyear": 2002
+  },
+  "노윤아": {
+    "group": "ILLIT",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "민주": {
+    "group": "ILLIT",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "원희": {
+    "group": "ILLIT",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2007
+  },
+  "모카": {
+    "group": "ILLIT",
+    "position": "none",
+    "nationality": "일본",
+    "birthyear": 2004
+  },
+  "이로하": {
+    "group": "ILLIT",
+    "position": "none",
+    "nationality": "일본",
+    "birthyear": 2008
+  },
+  "태연": {
+    "group": "소녀시대",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1989
+  },
+  "써니": {
+    "group": "소녀시대",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1989
+  },
+  "티파니": {
+    "group": "소녀시대",
+    "position": "리드보컬",
+    "nationality": "미국",
+    "birthyear": 1989
+  },
+  "효연": {
+    "group": "소녀시대",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1989
+  },
+  "유리": {
+    "group": "소녀시대",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1989
+  },
+  "수영": {
+    "group": "소녀시대",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1990
+  },
+  "윤아": {
+    "group": "소녀시대",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1990
+  },
+  "서현": {
+    "group": "소녀시대",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1991
+  },
+  "나띠": {
+    "group": "Kiss Of Life",
+    "position": "메인댄서",
+    "nationality": "태국",
+    "birthyear": 2002
+  },
+  "벨": {
+    "group": "Kiss Of Life",
+    "position": "메인보컬",
+    "nationality": "미국",
+    "birthyear": 2004
+  },
+  "하늘": {
+    "group": "Kiss Of Life",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 2005
+  },
+  "쥴리": {
+    "group": "Kiss Of Life",
+    "position": "메인보컬",
+    "nationality": "미국",
+    "birthyear": 2000
+  },
+  "박초롱": {
+    "group": "Apink",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 1991
+  },
+  "윤보미": {
+    "group": "Apink",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1993
+  },
+  "정은지": {
+    "group": "Apink",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1993
+  },
+  "김남주": {
+    "group": "Apink",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "오하영": {
+    "group": "Apink",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1996
+  },
+  "송하영": {
+    "group": "fromis9",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "박지원": {
+    "group": "fromis9",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1998
+  },
+  "이채영": {
+    "group": "fromis9",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 2000
+  },
+  "이나경": {
+    "group": "fromis9",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2000
+  },
+  "백지헌": {
+    "group": "fromis9",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2003
+  },
+  "나연": {
+    "group": "TWICE",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "정연": {
+    "group": "TWICE",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1996
+  },
+  "모모": {
+    "group": "TWICE",
+    "position": "메인댄서",
+    "nationality": "일본",
+    "birthyear": 1996
+  },
+  "사나": {
+    "group": "TWICE",
+    "position": "서브보컬",
+    "nationality": "일본",
+    "birthyear": 1996
+  },
+  "지효": {
+    "group": "TWICE",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "미나": {
+    "group": "TWICE",
+    "position": "메인댄서",
+    "nationality": "일본",
+    "birthyear": 1997
+  },
+  "다현": {
+    "group": "TWICE",
+    "position": "리드래퍼",
+    "nationality": "대한민국",
+    "birthyear": 1998
+  },
+  "채영": {
+    "group": "TWICE",
+    "position": "메인래퍼",
+    "nationality": "대한민국",
+    "birthyear": 1999
+  },
+  "쯔위": {
+    "group": "TWICE",
+    "position": "서브보컬",
+    "nationality": "대만",
+    "birthyear": 1999
+  },
+  "민지": {
+    "group": "NewJeans",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "하니": {
+    "group": "NewJeans",
+    "position": "none",
+    "nationality": "호주",
+    "birthyear": 2004
+  },
+  "다니엘": {
+    "group": "NewJeans",
+    "position": "none",
+    "nationality": "호주",
+    "birthyear": 2005
+  },
+  "해린": {
+    "group": "NewJeans",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2006
+  },
+  "혜인": {
+    "group": "NewJeans",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2008
+  },
+  "사쿠라": {
+    "group": "LE SSERAFIM",
+    "position": "서브보컬",
+    "nationality": "일본",
+    "birthyear": 1998
+  },
+  "김채원": {
+    "group": "LE SSERAFIM",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 2000
+  },
+  "허윤진": {
+    "group": "LE SSERAFIM",
+    "position": "메인보컬",
+    "nationality": "미국",
+    "birthyear": 2001
+  },
+  "카즈하": {
+    "group": "LE SSERAFIM",
+    "position": "메인댄서",
+    "nationality": "일본",
+    "birthyear": 2003
+  },
+  "홍은채": {
+    "group": "LE SSERAFIM",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2006
+  },
+  "안유진": {
+    "group": "IVE",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 2003
+  },
+  "장원영": {
+    "group": "IVE",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "가을": {
+    "group": "IVE",
+    "position": "메인래퍼",
+    "nationality": "대한민국",
+    "birthyear": 2002
+  },
+  "레이": {
+    "group": "IVE",
+    "position": "메인래퍼",
+    "nationality": "일본",
+    "birthyear": 2004
+  },
+  "리즈": {
+    "group": "IVE",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "이서": {
+    "group": "IVE",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2007
+  },
+  "카리나": {
+    "group": "aespa",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 2000
+  },
+  "지젤": {
+    "group": "aespa",
+    "position": "메인래퍼",
+    "nationality": "일본",
+    "birthyear": 2000
+  },
+  "윈터": {
+    "group": "aespa",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 2001
+  },
+  "닝닝": {
+    "group": "aespa",
+    "position": "메인보컬",
+    "nationality": "중국",
+    "birthyear": 2002
+  },
+  "예지": {
+    "group": "ITZY",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 2000
+  },
+  "리아": {
+    "group": "ITZY",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 2000
+  },
+  "류진": {
+    "group": "ITZY",
+    "position": "메인래퍼",
+    "nationality": "대한민국",
+    "birthyear": 2001
+  },
+  "채령": {
+    "group": "ITZY",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 2001
+  },
+  "유나": {
+    "group": "ITZY",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2003
+  },
+  "아이린": {
+    "group": "레드벨벳",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 1991
+  },
+  "슬기": {
+    "group": "레드벨벳",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1994
+  },
+  "웬디": {
+    "group": "레드벨벳",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1994
+  },
+  "조이": {
+    "group": "레드벨벳",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1996
+  },
+  "예리": {
+    "group": "레드벨벳",
+    "position": "서브래퍼",
+    "nationality": "대한민국",
+    "birthyear": 1999
+  },
+  "은하": {
+    "group": "VIVIZ",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "신비": {
+    "group": "VIVIZ",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1998
+  },
+  "엄지": {
+    "group": "VIVIZ",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1998
+  },
+  "지수": {
+    "group": "BLACKPINK",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "제니": {
+    "group": "BLACKPINK",
+    "position": "메인래퍼",
+    "nationality": "대한민국",
+    "birthyear": 1996
+  },
+  "로제": {
+    "group": "BLACKPINK",
+    "position": "리드보컬",
+    "nationality": "뉴질랜드",
+    "birthyear": 1997
+  },
+  "리사": {
+    "group": "BLACKPINK",
+    "position": "메인댄서",
+    "nationality": "태국",
+    "birthyear": 1997
+  },
+  "해원": {
+    "group": "NMIXX",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 2003
+  },
+  "릴리": {
+    "group": "NMIXX",
+    "position": "none",
+    "nationality": "호주",
+    "birthyear": 2002
+  },
+  "설윤": {
+    "group": "NMIXX",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "배이": {
+    "group": "NMIXX",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "지우": {
+    "group": "NMIXX",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2005
+  },
+  "규진": {
+    "group": "NMIXX",
+    "position": "none",
+    "nationality": "대한민국",
+    "birthyear": 2006
+  },
+  "소연": {
+    "group": "(G)-IDLE",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 1998
+  },
+  "미연": {
+    "group": "(G)-IDLE",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "민니": {
+    "group": "(G)-IDLE",
+    "position": "메인보컬",
+    "nationality": "태국",
+    "birthyear": 1997
+  },
+  "우기": {
+    "group": "(G)-IDLE",
+    "position": "서브보컬",
+    "nationality": "중국",
+    "birthyear": 1999
+  },
+  "슈화": {
+    "group": "(G)-IDLE",
+    "position": "서브보컬",
+    "nationality": "대만",
+    "birthyear": 2000
+  },
+  "수민": {
+    "group": "STAYC",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 2001
+  },
+  "시은": {
+    "group": "STAYC",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 2001
+  },
+  "아이사": {
+    "group": "STAYC",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 2002
+  },
+  "세은": {
+    "group": "STAYC",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2003
+  },
+  "윤": {
+    "group": "STAYC",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "재이": {
+    "group": "STAYC",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 2004
+  },
+  "효정": {
+    "group": "오마이걸",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 1994
+  },
+  "미미": {
+    "group": "오마이걸",
+    "position": "래퍼",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "유아": {
+    "group": "오마이걸",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "승희": {
+    "group": "오마이걸",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1996
+  },
+  "유빈": {
+    "group": "오마이걸",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "아린": {
+    "group": "오마이걸",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1999
+  },
+  "엑시": {
+    "group": "우주소녀",
+    "position": "리더",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "설아": {
+    "group": "우주소녀",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1994
+  },
+  "보나": {
+    "group": "우주소녀",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1995
+  },
+  "수빈": {
+    "group": "우주소녀",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1996
+  },
+  "루다": {
+    "group": "우주소녀",
+    "position": "서브보컬",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "다원": {
+    "group": "우주소녀",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1997
+  },
+  "은서": {
+    "group": "우주소녀",
+    "position": "리드댄서",
+    "nationality": "대한민국",
+    "birthyear": 1998
+  },
+  "여름": {
+    "group": "우주소녀",
+    "position": "메인댄서",
+    "nationality": "대한민국",
+    "birthyear": 1999
+  },
+  "다영": {
+    "group": "우주소녀",
+    "position": "리드보컬",
+    "nationality": "대한민국",
+    "birthyear": 1999
+  },
+  "연정": {
+    "group": "우주소녀",
+    "position": "메인보컬",
+    "nationality": "대한민국",
+    "birthyear": 1999
+  }
+}
